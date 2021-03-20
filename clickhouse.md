@@ -41,7 +41,7 @@ ORDER BY partition;
 4. To save the query result into an output file.
 
 ```sql
-select * from test into outfile '/home/ravi/Documents/result.csv' format CSV
+select * from test into outfile 'result.csv' format CSV
 ```
 
 5. To fire the queries over the HTTP interface 

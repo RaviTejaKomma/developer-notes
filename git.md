@@ -1,21 +1,22 @@
-Git - Version Control System(VCS) / Source Code Management(SCM)
+## Git - Version Control System(VCS) / Source Code Management(SCM)
 
 Keeps track of changes
 	Version1, Version2, Version3
 
-Configuration
+### Configuration
 
-System level configuration
-	/etc/gitconfig
-	Program files\Git\etc\gitconfig
+System level configuration <br>
+/etc/gitconfig <br>
+Program files\Git\etc\gitconfig
 
 	>> git config --system
 
-User level configuration
-	~/.gitconfig
-	$HOME\.gitconfig
-
-	>> git config --global
+#### User level configuration
+```
+~/.gitconfig
+$HOME\.gitconfig
+git config --global
+```
 
 Project level configuration
 	my_project/.git/config
