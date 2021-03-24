@@ -3,7 +3,7 @@
 
 This repo contains my tips, tricks, and notes that I have found useful.
 
-__:dash: [my short scripts](https://gist.github.com/RaviTejaKomma)__
+__:dash: [my short scripts](scripts)__
 
 
 ## Most Used Notes
