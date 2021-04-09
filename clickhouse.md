@@ -102,5 +102,7 @@ GROUP BY table
 ```
 
 ### References
-1. https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html
-2. https://gist.github.com/sanchezzzhak/511fd140e8809857f8f1d84ddb937015
+1. https://clickhouse.tech/docs/en/getting-started/tutorial/
+2. https://clickhouse.tech/docs/en/interfaces/cli/
+3. https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html
+4. https://gist.github.com/sanchezzzhak/511fd140e8809857f8f1d84ddb937015

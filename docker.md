@@ -207,3 +207,5 @@ Built in DNS server always run at address **127.0.0.11**
 
 Refernces:
 - https://www.codenotary.com/blog/extremely-useful-docker-commands/
+- https://docker-curriculum.com/
+- https://www.udemy.com/course/docker-essentials/
