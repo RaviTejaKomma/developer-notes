@@ -50,13 +50,14 @@ id -g -n
 ps -o nlwp <pid>
 ```
 
->> netstat -ltn
+**Other handy commands:**
+> netstat -ltn
 
->> tail -f /var/log/syslog
+> tail -f /var/log/syslog
 
->> sudo lsof -i TCP:8123
+> sudo lsof -i TCP:8123
 
->> top -o %MEM -d 0.1
+> top -o %MEM -d 0.1
 
 ### Aliases
 
@@ -88,4 +89,8 @@ alias gcp_dev='gcloud config set account <personal_mail_address>; gcloud config 
 
 after adding the aliases to the file and saving it, run to preserve your current shell
 
->> source ~/.bashrc
+> source ~/.bashrc
+
+
+### Additional references:
+- https://levelup.gitconnected.com/advanced-unix-commands-to-boost-your-productivity-4af6e9086c04
