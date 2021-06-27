@@ -50,6 +50,13 @@ id -g -n
 ps -o nlwp <pid>
 ```
 
+9. To zip an entire folder
+
+```bash
+zip -r <zip_folder_name>.zip <folder_name>
+```
+
+
 **Other handy commands:**
 > netstat -ltn
 
